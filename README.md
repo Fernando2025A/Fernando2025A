@@ -2,8 +2,8 @@
 Fullstack Developer with a heavy focus on Backend engineering. 
 
 🛠️ Core Tech Stack:
-- Backend: Node.js, NestJS, Express, TypeScript, RESTful APIs, GraphQL
-- Databases: PostgreSQL, MongoDB, TypeORM / Prisma
+- Backend: Node.js, NestJS, Express, TypeScript, RESTful APIs, JWT/cookies, OAuth2
+- Databases: PostgreSQL, Redis, Prisma ORM
 - Frontend: React, Vite, TypeScript, Tailwind CSS
 - DevOps & Tools: Docker, Git, CI/CD, Jest
 
